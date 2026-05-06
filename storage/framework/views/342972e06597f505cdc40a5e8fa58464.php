@@ -1,0 +1,2 @@
+<?php echo $__env->make('posts.form', ['post' => null], array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?>
+<?php /**PATH C:\Users\Admin\Downloads\blog_project\resources\views/posts/create.blade.php ENDPATH**/ ?>
